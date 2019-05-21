@@ -1,5 +1,3 @@
-package com.noadd.myapp.util.baseUtil;
-
 import com.alibaba.fastjson.JSONObject;
 import com.noadd.myapp.util.ProxyUtils;
 import org.apache.http.client.CookieStore;
